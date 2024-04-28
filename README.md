@@ -1,16 +1,16 @@
 # dpdemo
 
 ## Creational 
-##### Factory -> Content Factory
-##### Builder -> to be searched
-##### Singleton -> DB instance
+<input type="checkbox" disabled /> Factory -> Content Factory  
+<input type="checkbox" disabled />Builder -> to be searched  
+<input type="checkbox" disabled checked /> Singleton -> DB instance
 
 ## Behavioural
-##### Observer -> Youtube
-##### Memento -> Doc undo redo
-##### Startegy -> discount
+<input type="checkbox" disabled /> Observer -> Youtube  
+<input type="checkbox" disabled /> Memento -> Doc undo redo  
+<input type="checkbox" disabled /> Startegy -> discount
 
 ## Structural
-##### proxy -> db access
-##### decorator -> logging
-##### bridge -> sms/ mail message
+<input type="checkbox" disabled /> proxy -> db access  
+<input type="checkbox" disabled /> decorator -> logging  
+<input type="checkbox" disabled checked /> bridge -> sms/mail message
