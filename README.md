@@ -1,16 +1,16 @@
 # dpdemo
 
 ## Creational 
-- [ ] Factory -> Content Factory  
+- [x] Factory -> Content Factory  
 - [ ] Builder -> to be searched  
 - [x] Singleton -> DB instance
 
 ## Behavioural
-- [ ] Observer -> Youtube  
-- [ ] Memento -> Doc undo redo  
+- [x] Observer -> Youtube  
+- [x] Memento -> Doc undo redo  
 - [ ] Startegy -> discount
 
 ## Structural
-- [ ] proxy -> db access  
-- [ ] decorator -> logging  
+- [x] proxy -> db access  
+- [x] decorator -> logging  
 - [x] bridge -> sms/mail message
